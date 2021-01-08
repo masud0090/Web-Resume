@@ -1,0 +1,83 @@
+.b-style{
+ 
+  
+  border-top:2px dotted black;
+  color:#fff;
+  background-color:#fff;
+  height:1px;
+  width:45%;
+  font-size: 20px;
+}
+
+.exp{
+  color: #fff;
+}
+
+.toggle{
+  display: flex;
+}
+
+.design{
+  margin-left: -15px;
+  margin-top: 3px;
+  color: #2874A6;
+}
+
+
+
+
+@media only screen and (max-width:568px){
+  
+  .row{
+    display:block;
+    
+
+  }
+  .rightdesign{
+    margin-top: 15px !important;
+    margin-left: 3px;
+  }
+}
+
+.left{
+  color: #ffffff;
+  
+}
+
+
+#right{
+  padding: 0 12px;
+  padding: px;
+  border: 2px solid gray;
+
+  margin: 0;
+}
+
+
+h2{
+  display: inline;
+ padding: 0 0px;
+  
+  
+}
+
+#mainline{
+  color:#2874A6;
+  padding: 1px;
+  border: 2px solid gray;
+  margin: 0;
+}
+
+
+
+.rightdesign{
+  margin-top: 6px;
+}
+
+
+
+
+.project{
+  display: flex;
+  font-size:18px ;
+}
